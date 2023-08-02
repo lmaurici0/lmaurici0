@@ -1,1 +1,1 @@
-HI! Eric here. i learning Python, C, C++, Java, JS, HTML% and CSS3.
+HI! Eric here. i learning Python, C, C++, Java, JS, HTML5and CSS3.
