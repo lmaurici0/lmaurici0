@@ -10,13 +10,14 @@
 
 <h2>Habilidades</h2>
 ·Linguagens de programação: C, C++, Javascript e SQL;<br>
-·Serviços de Banco de Dados: SQL Server<br>
+·Serviços de Banco de Dados: SQL Server;<br>
 ·Ferramentas: Visual Studio Codium, Git e PhotoShop.<br>
-          
+
+<h2>Contato</h2>
 Para entrar em contato comigo, você pode me escrever ou seguir meu perfil profissional:
 
 Email: ericluismauricio@gmail.com
 Aguardo seu contato.
 
-Contribuições
+<h2>Contribuições</h2>
 Contribuições serão sempre bem-vindas! Para relatar algum problema em meus projetos, sugerir melhorias e novas ideias se sinta à vontade para abrir um issue ou fazer uma pull request.
