@@ -23,4 +23,5 @@ Linkedin: <a href="https://www.linkedin.com/in/eric-luis-da-silva-mauricio-14262
 Aguardo seu contato.<br>
 
 <h2>Contribuições</h2>
+<br>
 Contribuições serão sempre bem-vindas! Para relatar algum problema em meus projetos, sugerir melhorias e novas ideias se sinta à vontade para abrir um issue ou fazer uma pull request.
