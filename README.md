@@ -1,9 +1,8 @@
 <h1>Eric Luis</h1>
 
 <p>Olá, bem-vindo ao meu perfil do GitHub! Me chamo Eric Luis e sou um amante de programação. Aqui voC~e verá minhas habilidades em prática e poderá acompanhar minha evolução. </p>
-
-Sobre mim</p>
-
+</p>Sobre mim</p>
+<hr>
 🔭 Atualmente estou em busca da minha primeira colocação no mercado de trabalho;
 🌱 Busco sempre melhorar e aprender mais sobre Desenvolvimento de Sistemas;
 💡 Tenho interesse em HTML, CSS, JavaScript, ReactJS e outros;
