@@ -24,4 +24,4 @@ Aguardo seu contato.<br>
 
 <h2>Contribuições</h2>
 <br>
-Contribuições serão sempre bem-vindas! Para relatar algum problema em meus projetos, sugerir melhorias e novas ideias se sinta à vontade para abrir um issue ou fazer uma pull request.
+Contribuições serão sempre bem-vindas! Para relatar algum problema em meus projetos ou caso queira sugerir melhorias e novas ideias se sinta à vontade para abrir um issue ou fazer uma pull request.
