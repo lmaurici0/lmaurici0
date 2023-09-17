@@ -1,4 +1,4 @@
-Eric Luis Mauricio
+<h1 align="center">Eric Luis</h1>
 Olá, bem-vindo ao meu perfil do GitHub! Me chamo Eric Luis e sou um amante de programação. Aqui voC~e verá minhas habilidades em prática e poderá acompanhar minha evolução. 
 
 Sobre mim
