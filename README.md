@@ -1,6 +1,6 @@
 <h1>Eric Luis</h1>
 
-<p>Olá, bem-vindo ao meu perfil do GitHub! Me chamo Eric Luis e sou um amante de programação. Aqui voC~e verá minhas habilidades em prática e poderá acompanhar minha evolução. </p>
+<p>Olá, bem-vindo ao meu perfil do GitHub! Me chamo Eric Luis e sou um amante de programação. Aqui você verá minhas habilidades em prática e poderá acompanhar minha evolução. </p>
 <h2>Sobre mim</h2>
 
 🔭 Atualmente estou em busca da minha primeira colocação no mercado de trabalho;<br>
