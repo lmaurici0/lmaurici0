@@ -18,8 +18,8 @@
 <h2>Contato</h2>
 Para entrar em contato comigo, você pode me escrever ou seguir meu perfil profissional:<br>
 
-Email: ericluismauricio@gmail.com<br>
-Linkedin: <a href="https://www.linkedin.com/in/eric-luis-da-silva-mauricio-142624279/"> Meu Perfil. </a>
+Email: <a href="ericluismauricio@gmail.com">Email</a><br>
+Linkedin: <a href="https://www.linkedin.com/in/eric-luis-da-silva-mauricio-142624279/">Linkedin</a><br>
 Aguardo seu contato.
 
 <h2>Contribuições</h2>
