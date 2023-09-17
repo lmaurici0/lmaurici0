@@ -15,12 +15,12 @@
 <li>Ferramentas: Visual Studio Codium, Git e PhotoShop.<br></li>
 </ul>
 
-<h2>Contato</h2>
+<h2>Contato 📩</h2>
 Para entrar em contato comigo, você pode me escrever ou seguir meu perfil profissional:<br>
 
 Email: <a href="ericluismauricio@gmail.com">Email</a><br>
 Linkedin: <a href="https://www.linkedin.com/in/eric-luis-da-silva-mauricio-142624279/">Linkedin</a><br>
-Aguardo seu contato.
+Aguardo seu contato.<br>
 
 <h2>Contribuições</h2>
 Contribuições serão sempre bem-vindas! Para relatar algum problema em meus projetos, sugerir melhorias e novas ideias se sinta à vontade para abrir um issue ou fazer uma pull request.
