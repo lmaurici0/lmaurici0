@@ -9,9 +9,9 @@
 🎓 Estou cursando Desenvolvimento de Sistemas na Etec Horácio Augusto da Silveira.<br>
 
 <h2>Habilidades</h2>
-Linguagens de programação: C, C++, Javascript e SQL;
-Serviços de Banco de Dados: SQL Server
-Ferramentas: Visual Studio Codium, Git e PhotoShop.
+·Linguagens de programação: C, C++, Javascript e SQL;<br>
+·Serviços de Banco de Dados: SQL Server<br>
+·Ferramentas: Visual Studio Codium, Git e PhotoShop.<br>
           
 Para entrar em contato comigo, você pode me escrever ou seguir meu perfil profissional:
 
