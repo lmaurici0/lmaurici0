@@ -12,7 +12,7 @@
 <ul>
 <li>Linguagens de programação: C, Javascript, Python, ES6 e SQL;<br></li>
 <li>Serviços de Banco de Dados: SQL Server, SQLite, MySQL;<br></li>
-<li>Ferramentas: Visual Studio Code, Git, Github, PhotoShop e Figma.<br></li>
+<li>Ferramentas: Visual Studio Code, Visual Studio, Git, Github, PhotoShop e Figma.<br></li>
 <li>Frameworks: Bootstrap</li>
 </ul>
 
