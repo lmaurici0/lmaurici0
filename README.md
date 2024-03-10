@@ -2,7 +2,7 @@
 
 Prazer, meu nome é Eric Luis, atualmente me considero um Desenvolvedor Full-Stack Faço o Curso Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio na [Etec Prof Horácio Augusto da Silveira](https://etechoracio.com.br), estou no 2º Ano e termino o curso em Dezembro de 2025.
 
-Porque não visita <a href="https://eric-luis.netlify.app/">Meu Portfólio</a> 
+Porque não visita <a href="https://eric-luis.netlify.app/">Meu Portfólio</a>?
 
 Aqui estão meu Linkedin e meu currículo.
 [<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" />](www.linkedin.com/in/ericmaurici0)
@@ -21,12 +21,10 @@ Aqui estão meu Linkedin e meu currículo.
     <img src="https://ww1.freelogovectors.net/wp-content/uploads/2022/10/bootstrap-logo-freelogovectors.net_.png?lossy=1&ssl=1" width="48px">
 </div>          
 
-<h2>Contato 📩</h2>
-Para entrar em contato comigo, você pode me escrever ou seguir meu perfil profissional:<br>
-
-Email: <a href="ericluismauricio@gmail.com">Email</a><br>
-Linkedin: <a href="https://www.linkedin.com/in/eric-luis-da-silva-mauricio-142624279/">Linkedin</a><br>
-Aguardo seu contato.<br>
+## Contato
+[<img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail" />](mailto:ericluismauricio@gmail.com)
+- Telefone: +55 (11) 98308-5255
+- Aguardo seu contato via whatsapp ou email !
 
 <h2>Contribuições</h2>
 <br>
