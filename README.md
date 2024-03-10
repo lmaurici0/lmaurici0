@@ -25,7 +25,3 @@ Aqui estão meu Linkedin e meu currículo. <br>
 [<img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail" />](mailto:ericluismauricio@gmail.com)
 - Telefone: +55 (11) 98308-5255
 - Aguardo seu contato via whatsapp ou email !
-
-<h2>Contribuições</h2>
-<br>
-Contribuições serão sempre bem-vindas! Para relatar algum problema em meus projetos ou caso queira sugerir melhorias e novas ideias se sinta à vontade para abrir um issue ou fazer uma pull request.
