@@ -16,6 +16,7 @@ Aqui estão meu Linkedin e meu currículo.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="48px"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48px"/>     
+    <img src="https://www.freepnglogos.com/uploads/linux-png/image-linux-logo-logopedia-fandom-powered-wikia-11.png" width="48px">
     <img src="https://th.bing.com/th/id/R.e31fbbd5061f9e04caec610b65076bb1?rik=CnE1xETHeyB7pg&pid=ImgRaw&r=0" width="48px">
     <img src="https://ww1.freelogovectors.net/wp-content/uploads/2022/10/bootstrap-logo-freelogovectors.net_.png?lossy=1&ssl=1" width="48px">
 </div>          
