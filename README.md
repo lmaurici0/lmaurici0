@@ -16,7 +16,8 @@ Aqui estão meu Linkedin e meu currículo.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="48px"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48px"/>     
-    <img src="https://th.bing.com/th/id/R.e31fbbd5061f9e04caec610b65076bb1?rik=CnE1xETHeyB7pg&pid=ImgRaw&r=0" width="48px"
+    <img src="https://th.bing.com/th/id/R.e31fbbd5061f9e04caec610b65076bb1?rik=CnE1xETHeyB7pg&pid=ImgRaw&r=0" width="48px">
+    <img src="https://www.vhv.rs/dpng/d/113-1130781_linux-logo-hd-png-download.png" width="48px">
 </div>          
 
 <h2>Contato 📩</h2>
