@@ -1,4 +1,4 @@
-<h1>Eric Luis</h1>
+<h1>Quem eu sou?</h1>
 
 Prazer, meu nome é Eric Luis, atualmente me considero um Desenvolvedor Full-Stack Faço o Curso Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio na [Etec Prof Horácio Augusto da Silveira](https://etechoracio.com.br), estou no 2º Ano e termino o curso em Dezembro de 2025.
 
