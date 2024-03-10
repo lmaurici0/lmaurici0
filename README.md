@@ -4,7 +4,7 @@ Prazer, meu nome é Eric Luis, atualmente me considero um Desenvolvedor Full-Sta
 
 Porque não visita <a href="https://eric-luis.netlify.app/">Meu Portfólio</a>?
 
-Aqui estão meu Linkedin e meu currículo. </ br>
+Aqui estão meu Linkedin e meu currículo. <br>
 [<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" />](www.linkedin.com/in/ericmaurici0)
 [<img src="https://img.shields.io/badge/curriculum-black?style=for-the-badge&logo=adobeacrobatreader" />](https://drive.google.com/file/d/1VyYzAlm1i8H6AtbSx03Iqh8iQjgWJ_Ap/view?usp=sharing)
 
