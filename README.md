@@ -4,21 +4,19 @@ Prazer, meu nome é Eric Luis, atualmente me considero um Desenvolvedor Full-Sta
 
 Porque não visita [Meu Portfólio]?(https://eric-luis.netlify.app/)
 
-
-<h2>Sobre mim</h2>
-
-🔭 Atualmente estou em busca da minha primeira oportunidade no mercado de trabalho;<br>
-🌱 Busco sempre melhorar e aprender mais sobre Desenvolvimento de Sistemas;<br>
-💡 Tenho interesse em HTML, CSS, JavaScript, ReactJS e outros;<br>
-🎓 Estou cursando Desenvolvimento de Sistemas na Etec Horácio Augusto da Silveira.<br>
+Aqui estão meu Linkedin e meu currículo.
+[<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" />](www.linkedin.com/in/ericmaurici0)
+[<img src="https://img.shields.io/badge/curriculum-black?style=for-the-badge&logo=adobeacrobatreader" />](https://drive.google.com/file/d/1VyYzAlm1i8H6AtbSx03Iqh8iQjgWJ_Ap/view?usp=sharing)
 
 <h2>Habilidades</h2>
-<ul>
-<li>Linguagens de programação: C, Javascript, Python, ES6 e SQL;<br></li>
-<li>Serviços de Banco de Dados: SQL Server, SQLite, MySQL;<br></li>
-<li>Ferramentas: Visual Studio Code, Visual Studio, Git, Github, PhotoShop e Figma.<br></li>
-<li>Frameworks: Bootstrap</li>
-</ul>
+<div>        
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="48px"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48px"/>          
+</div>          
 
 <h2>Contato 📩</h2>
 Para entrar em contato comigo, você pode me escrever ou seguir meu perfil profissional:<br>
