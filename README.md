@@ -2,7 +2,7 @@
 
 Prazer, meu nome é Eric Luis, atualmente me considero um Desenvolvedor Full-Stack Faço o Curso Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio na [Etec Prof Horácio Augusto da Silveira](https://etechoracio.com.br), estou no 2º Ano e termino o curso em Dezembro de 2025.
 
-Porque não visita [Meu Portfólio]?(https://eric-luis.netlify.app/)
+Porque não visita [Meu Portfólio (https://eric-luis.netlify.app/)]
 
 Aqui estão meu Linkedin e meu currículo.
 [<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" />](www.linkedin.com/in/ericmaurici0)
