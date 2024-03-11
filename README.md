@@ -5,9 +5,9 @@ Prazer, meu nome é Eric Luis, atualmente me considero um Desenvolvedor Full-Sta
 Porque não visita <a href="https://eric-luis.netlify.app/">Meu Portfólio</a>?
 
 Aqui estão meu Linkedin e meu currículo. <br>
-<a href="https://www.linkedin.com/in/eric-luis-da-silva-mauricio-142624279/" style='text-decoration:none'> <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/eric-luis-da-silva-mauricio-142624279/" style='text-decoration:none'><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" /></a>
 
-[<img src="https://img.shields.io/badge/curriculum-black?style=for-the-badge&logo=adobeacrobatreader" />]([https://dri.google.com/file/d/1VyYzAlm1i8H6AtbSx03Iqh8iQjgWJ_Ap/view?usp=sharing](https://drive.google.com/file/d/1t_dNjkGXU8g7XC1J_eAwVy8V4lA4hKR7/view?usp=drive_link))
+<a href='https://drive.google.com/file/d/1t_dNjkGXU8g7XC1J_eAwVy8V4lA4hKR7/view?usp=drive_link'><img src="https://img.shields.io/badge/curriculum-black?style=for-the-badge&logo=adobeacrobatreader"/></a>
 
 <h2>Habilidades</h2>
 <div>        
