@@ -1,28 +1,51 @@
-<h1>Quem eu sou?</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Eric+Luis+da+Silva+Mauricio;I'm+16+years+old;I+am+from+Guarulhos,+SP;I+study+Systems+development+and+systems+development+at+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Prazer, meu nome é Eric Luis, atualmente me considero um Desenvolvedor Full-Stack Faço o Curso Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio na [Etec Prof Horácio Augusto da Silveira](https://etechoracio.com.br), estou no 2º Ano e termino o curso em Dezembro de 2025.
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lmaurici0&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eric Luis Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmaurici0&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-Porque não visita <a href="https://eric-luis.netlify.app/">Meu Portfólio</a>?
 
-Aqui estão meu Linkedin e meu currículo. <br>
-<a href="https://www.linkedin.com/in/eric-luis-da-silva-mauricio-142624279/" style='text-decoration:none'><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lmaurici0&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href='https://drive.google.com/file/d/1t_dNjkGXU8g7XC1J_eAwVy8V4lA4hKR7/view?usp=drive_link'><img src="https://img.shields.io/badge/curriculum-black?style=for-the-badge&logo=adobeacrobatreader"/></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lmaurici0&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-<h2>Habilidades</h2>
-<div>        
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="48px"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48px"/>     
-    <img src="https://www.freepnglogos.com/uploads/linux-png/image-linux-logo-logopedia-fandom-powered-wikia-11.png" width="48px">
-    <img src="https://th.bing.com/th/id/R.e31fbbd5061f9e04caec610b65076bb1?rik=CnE1xETHeyB7pg&pid=ImgRaw&r=0" width="48px">
-    <img src="https://ww1.freelogovectors.net/wp-content/uploads/2022/10/bootstrap-logo-freelogovectors.net_.png?lossy=1&ssl=1" width="48px">
-</div>          
+<div align="center">  
+<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+ 
+### Principais Habilidades:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+ 
+### Ferramentas:
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=90ee90&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+ 
+### Conhecimentos em:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-## Contato
-[<img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail" />](mailto:ericluismauricio@gmail.com)
-- Telefone: +55 (11) 98308-5255
-- Aguardo seu contato via whatsapp ou email !
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
