@@ -36,7 +36,7 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 ### Aprendendendo no momento:
-![MongoDb](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodbl&labelColor=0D1117)&nbsp;
+![MongoDb](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![Postgre SQL](https://img.shields.io/badge/-postgree%20sql-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117)&nbsp;
 ![Postgre SQL](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 
