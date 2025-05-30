@@ -14,7 +14,7 @@
 </p>-->
  
 ### Principais Habilidades:
-![Spring]([https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117](https://img.shields.io/badge/-Springboot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117))&nbsp;
+![Spring](https://img.shields.io/badge/-Springboot-0D1117?style=for-thebadge&logo=springboot&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -32,7 +32,7 @@
  
 ### Conhecimentos em:
 
-![MongoDB](https://img.shields.io/badge/-mongoDb-0D1117?style=for-the-badge&logo=mongodb&logoColor=purple&labelColor=0D1117)&nbsp; 
+![MongoDB](https://img.shields.io/badge/-mongoDb-0D1117?style=for-the-badge&logo=mongodb&logoColor=purple&labelColor=3FA037)&nbsp; 
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=333&height=120&section=header"/>
