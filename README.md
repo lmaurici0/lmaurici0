@@ -2,49 +2,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00df7f7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Eric+Mauricio;I'm+17+years+old;I+am+from+São+Paulo,+SP;I+study+Systems+development+at+ETEC)](https://git.io/typing-svg)
 
-/*novo*/
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00df7f7&height=220&section=header&text=Md.%20Shawon%20Forazi&fontSize=65&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="header"/>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=111184&center=true&vCenter=true&width=700&lines=%F0%9F%96%A5%EF%B8%8F+Back-End+Developer;%F0%9F%92%BE+Data+Base+Expert;%F0%9F%96%A5+Front-End+Developer;" alt="Animated Titles" />
-</p>
-
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-
-  <!-- Photoshop -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="50" height="50" />
-
-  <!-- Illustrator -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" alt="Illustrator" width="50" height="50" />
-
-  <!-- Figma -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" />
-
-  <!-- Canva -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="50" height="50" />
-
-  <!-- Inkscape -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="50" height="50" />
-
-
-
-
-### ⌨️ Data Entry Tools
-
-<p float="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" width="50" alt="Microsoft Excel" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" width="50" alt="Google Sheets" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" alt="Microsoft Word" />
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888855.png" width="50" alt="Google Docs" />
-</p>
-
----
-
-
-
-## 📈 GitHub Metrics Dashboard<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
+## 📈 GitHub Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MdShawonForazi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
