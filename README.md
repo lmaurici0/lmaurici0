@@ -4,10 +4,9 @@
 
 
 ## 📈 GitHub Metrics
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lmaurici0&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmaurici0&theme=radical" alt="GitHub Streak" />
