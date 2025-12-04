@@ -1,21 +1,38 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=333&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00df7f7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Eric+Mauricio;Tenho+17+Anos+de+idade;Sou+de+São+Paulo,+SP;Formado+em+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00df7f7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Eric+Mauricio;I'm+17+years+old;I+am+from+São+Paulo,+SP;I+study+Systems+development+at+ETEC)](https://git.io/typing-svg)
 
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lmaurici0&show_icons=true&count_private=true&hide_border=true&title_color=00df7f7&icon_color=00df7f7&text_color=c9d1d9&bg_color=0d1117" alt="Eric Luis github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmaurici0&layout=compact&hide_border=true&title_color=00df7f7&text_color=00df7f7&bg_color=0d1117" />
+</div>
 
-## 📉 My GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lmaurici0&theme=tokyo-night&bg_color=0f0f0f&color=00ff99&line=ff4d6d&point=ffffff&area=true&hide_border=true" alt="lmaurici0 Colorful Contribution Graph" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lmaurici0&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🌐 Connect With Me: <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ericmaurici0/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <!-- Gmail -->
-  <a href="mailto:ericluismauricio@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/>
-  </a>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=48&duration=2500&pause=1000&center=true&vCenter=true&width=1000&color=FF0000&lines=THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE" alt="Typing SVG" />
-</p>
+<!--<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lmaurici0&theme=monokai&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>-->
+ 
+### Principais Habilidades:
+![Spring](https://img.shields.io/badge/-Springboot-0D1117?style=for-thebadge&logo=springboot&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+ 
+### Ferramentas:
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=90ee90&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+ 
+### Conhecimentos em:
+
+![MongoDB](https://img.shields.io/badge/-mongoDb-0D1117?style=for-the-badge&logo=mongodb&logoColor=3FA037&labelColor=0D1117)&nbsp; 
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=333&height=120&section=header"/>
