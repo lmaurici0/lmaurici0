@@ -11,18 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=111184&center=true&vCenter=true&width=700&lines=%F0%9F%96%A5%EF%B8%8F+Back-End+Developer;%F0%9F%92%BE+Data+Base+Expert;%F0%9F%96%A5+Front-End+Developer;" alt="Animated Titles" />
 </p>
 
-- 🖌 Passionate **Graphic Designer**
-- 🚀 Expert in **Branding, Social Media Design**
-- 🌐 Skilled in **Photoshop | Illustrator | Figma | Canva | Premiere Pro | After Effects**
-- 💡 Always exploring **Modern Design Trends**
-- 📫 How to reach me: shawonforazi2002@gmail.com
-
-
----
-
-## 🛠️ GitHub Tech Stack👇 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
-### 🎨 Graphics Design Tools
-
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
 
   <!-- Photoshop -->
