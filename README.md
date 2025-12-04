@@ -3,19 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00df7f7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Eric+Mauricio;Tenho+17+Anos+de+idade;Sou+de+São+Paulo,+SP;Formado+em+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
 
-## 📈 GitHub Metrics
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lmaurici0&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmaurici0&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lmaurici0&color=brightgreen" alt="Profile Views" />
-</p>
-
 ## 📉 My GitHub Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lmaurici0&theme=tokyo-night&bg_color=0f0f0f&color=00ff99&line=ff4d6d&point=ffffff&area=true&hide_border=true" alt="lmaurici0 Colorful Contribution Graph" />
