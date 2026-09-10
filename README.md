@@ -24,7 +24,7 @@ I'm Eric Mauricio, an 18-year-old Software Developer from São Paulo, Brazil.
 
 🎓 Currently studying **Systems Analysis and Development (ADS)** at Cruzeiro do Sul.
 
-💼 Currently working with **Software Quality Assurance (QA)**.
+💼 Currently working with **Software Quality Assurance (QA)** In Função Sistemas.
 
 💻 Focused on **Backend Development with Java and Spring Boot**.
 
